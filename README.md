@@ -1,3 +1,11 @@
+Weather Application Snapshot
+![WeatherAppFrontPage](https://user-images.githubusercontent.com/20742174/83363939-2554f200-a395-11ea-8a21-897da4de0cb6.png)
+
+![WeatherAppDisplay](https://user-images.githubusercontent.com/20742174/83363868-c0010100-a394-11ea-8f6d-8863b22abddf.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
